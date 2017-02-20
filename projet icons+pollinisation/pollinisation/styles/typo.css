@@ -1,0 +1,29 @@
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  margin: 40px;
+  display: block;
+  text-align: left;
+  max-width: 900px;
+  margin-bottom:5px;
+  margin-top:20px;
+  margin-left:40px;
+}
+
+h2 {
+font-family: 'Pangolin', cursive;
+  font-size: 60px;
+  margin-bottom:5px;
+  margin-top:20px;
+  margin-left:40px;
+}
+
+a{
+  margin: 40px;
+  font-family: 'Pangolin', cursive;
+  text-align: left;
+  margin-bottom:5px;
+  margin-top:20px;
+  margin-left:40px;
+  font-size: 25px;
+}
